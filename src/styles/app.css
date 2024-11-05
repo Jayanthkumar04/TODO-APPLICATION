@@ -108,4 +108,8 @@ ul:nth-child(1){
     border:1px solid #b83f45;
   }
  
- 
+  .custom-checkbox{
+    width:2em;
+    height:2em;
+
+  }
