@@ -4,7 +4,7 @@
   "description": "This is an todo which is developed in the ascendion",
   "main": "index.js",
   "scripts": {
-    "start":"http-server -c-1",
+    "start":"http-server -c-1 -o ./src/index.html",
     "build":"tsc",
     "build:watch":"tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
