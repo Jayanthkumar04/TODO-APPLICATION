@@ -27,7 +27,7 @@ footer div{
     font-size:3em;
     padding:10px 0px;
     /* font-size:80px; */
-    /* font-weight: 100; */
+    /* font-weight: normal; */
 }
 
 #input-box{
@@ -38,12 +38,30 @@ footer div{
     padding: 0px 16px 0px 16px;
     padding: 0px 16px 0px 16px;
     border-radius: 5px;
+    border: none;
     box-shadow: 0 0 15px rgba(184, 63, 69, 0.5);
     border-color: #b83f45;
     /* background-color: rgba(184, 63, 69, 0.5); */
-    margin-bottom:20px;
+    margin-bottom:50px;
     font-size:1.5em;
     text-align: center;
+}
+
+.box{
+        
+    height: 65px;
+    width: 500px;
+    padding: 0px 16px 0px 16px;
+    padding: 0px 16px 0px 16px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 15px rgba(184, 63, 69, 0.5);
+    border-color: #b83f45;
+    /* background-color: rgba(184, 63, 69, 0.5); */
+    margin-bottom:50px;
+    font-size:1.5em;
+    text-align: center;
+
 }
 
 footer{
